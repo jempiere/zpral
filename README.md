@@ -10,7 +10,7 @@ ZPral is a Z-Shell (zsh) organizing / framework tool. It comes with:
 * A folder for aliases, plugins, and themes respectively
 * A simple built in .txt file management plugin
 * A simple theme
-* A small base footprint (~33 kb)
+* A small base footprint (~35 kb)
 
 #### What ZPral *doesn't* do
 ZPral does not:
