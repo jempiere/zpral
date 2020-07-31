@@ -40,7 +40,7 @@ And you're good! Feel free to mess around with the code -- you can even delete t
 Sorry to see you go! There's not much in the way of installation, but if you want to get rid of the organization, run this script:
 
 #### **IMPORTANT**
-if you want to keep any of your aliases, functions, or otherwise, move them to another file **before** uninstalling.
+if you want to keep any of your aliases, functions, or otherwise from the .zshrc file, move them to another file **before** uninstalling.
 
 `zsh ~/.zsh-praline/zpral_uninstaller_script.zsh`
 
