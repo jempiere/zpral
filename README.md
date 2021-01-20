@@ -32,7 +32,7 @@ Until alternative methods are solidified, the zsh-praline folder should be dragg
 
 Then in your terminal, paste this command:
 
-`zsh ~/Desktop/zsh-praline/zpral_installer_script.zsh`
+`zsh ~Desktop/zpral-master/zsh-praline/zpral_installer_script.zsh`
 
 And you're good! Feel free to mess around with the code -- you can even delete the installation script after it's installed (though I don't recommend it)
 
@@ -44,4 +44,4 @@ if you want to keep any of your aliases, functions, or otherwise from the .zshrc
 
 `zsh ~/.zsh-praline/zpral_uninstaller_script.zsh`
 
-This will bring all of your old stuff back to your .zshrc file and delete what is currently in there. The remaining folders and files will be relocated to your Desktop, the same way they were installed.
+This will bring all of your old stuff back to your `.zshrc` file and delete what is currently in there. The remaining folders and files will be relocated to your Desktop, the same way they were installed.
