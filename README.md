@@ -32,7 +32,7 @@ Until alternative methods are solidified, the zsh-praline folder should be dragg
 
 Then in your terminal, paste this command:
 
-`zsh ~Desktop/zpral-master/zsh-praline/zpral_installer_script.zsh`
+`zsh ~/Desktop/zpral-master/zsh-praline/zpral_installer_script.zsh`
 
 And you're good! Feel free to mess around with the code -- you can even delete the installation script after it's installed (though I don't recommend it)
 
